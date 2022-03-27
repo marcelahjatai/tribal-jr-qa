@@ -40,7 +40,7 @@ Manual tests can be found on folder "manual-tests-documentation"
 + Manual API test: open the pdf file and open on your computer
 
 #### UI automated test:
-+ Open the repository on Visual Studio Code
++ Open the repository using Visual Studio Code
 + Open a new terminal and run:
 ``` js
 $ npx cypress open
